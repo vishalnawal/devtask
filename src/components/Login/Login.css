@@ -1,0 +1,30 @@
+.loginacc {
+    padding: 10px;
+    background-color: white;
+    color: black;
+    font-family: 'Rubik', sans-serif;
+}
+
+h1 {
+
+    font: normal normal medium 28px/36px Rubik;
+}
+
+p {
+    font: normal normal normal 18px/26px Rubik;
+
+}
+
+.loginbutton {
+
+    background: #CBCBCB 0% 0% no-repeat padding-box;
+    font: normal normal medium 16px/17px 'Rubik';
+    padding: 10px 10px;
+    margin-left: 5px;
+    border-radius: 6px;
+    color: #ffffff;
+    width: 40vh;
+    opacity: 1;
+    cursor: pointer;
+    border: none;
+}

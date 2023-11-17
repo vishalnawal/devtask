@@ -1,0 +1,103 @@
+* {
+    font-family: 'Rubik', sans-serif;
+    padding: 5px 5px;
+}
+
+h1 {
+    text-align: left;
+    font: normal normal medium 28px/36px Rubik;
+    letter-spacing: 0px;
+}
+
+.container {
+    width: 15rem;
+}
+
+.radiocontainer {
+    position: absolute;
+
+}
+
+.radiocontainer span {
+    width: 100%;
+
+}
+
+.radiocontainer label {
+
+    font-size: 14px;
+    padding: 10px 30px;
+}
+
+.star {
+    color: #DD4A3D;
+}
+
+.entryarea {
+    position: relative;
+    height: 40px;
+    line-height: 15px;
+}
+
+.noarea {
+    display: inline;
+}
+
+input {
+    position: absolute;
+    width: 100%;
+    outline: none;
+    font-size: 13px;
+
+    height: 50%;
+    border-radius: 10px;
+    border: 1px solid #CBCBCB;
+    background: transparent;
+}
+
+.labelline {
+    position: absolute;
+    font-size: 13px;
+    color: #6C25FF;
+    transform: translate(-12px, -7px) scale(0.88);
+    gap: 10px;
+    margin-left: 20px;
+    margin-top: -5px;
+    background-color: white
+}
+
+
+.signbutton {
+
+    font: normal normal medium 16px/17px 'Rubik';
+    background: #6C25FF 0% 0% no-repeat padding-box;
+    margin-top: 80px;
+    padding: 10px 10px;
+    margin-left: 10px;
+    border-radius: 6px;
+    color: #ffffff;
+    width: 40vh;
+    opacity: 1;
+    cursor: pointer;
+    border: none;
+}
+
+.wrap-radio {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrapper-class input[type="radio"] {
+    width: 20px;
+    margin-top: -10px;
+    accent-color: #6C25FF;
+}
+
+.wrapper-class label {
+    display: inline;
+}
+
+.sign h1 {
+    line-height: 1.5;
+}

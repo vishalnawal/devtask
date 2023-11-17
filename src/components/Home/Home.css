@@ -1,0 +1,48 @@
+.front {
+    position: absolute;
+    bottom: 0;
+    padding: 15px;
+    font-family: 'Rubik', sans-serif;
+}
+
+h1 {
+    font: normal normal medium 28/17px 'Rubik';
+    text-align: left;
+    width: 100%;
+
+}
+
+p {
+    text-align: left;
+    font: normal normal normal 18px/26px Rubik;
+    letter-spacing: 0px;
+    color: #1D2226;
+    opacity: 0.6;
+}
+
+.signup {
+    font: normal normal medium Rubik;
+    background: #6C25FF 0% 0% no-repeat padding-box;
+    padding: 10px 10px;
+    border-radius: 6px;
+    color: #ffffff;
+    width: 100%;
+    opacity: 1;
+    cursor: pointer;
+    font-size: 16px;
+    border: none;
+}
+
+.login {
+    font: normal normal medium Rubik;
+    letter-spacing: 0px;
+    margin-top: 10px;
+    background: #6C25FF4B 0% 0% no-repeat padding-box;
+    padding: 10px 10px;
+    border-radius: 6px;
+    width: 100%;
+    opacity: 1;
+    cursor: pointer;
+    font-size: 16px;
+    border: none;
+}
